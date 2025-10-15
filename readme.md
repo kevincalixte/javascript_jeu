@@ -33,7 +33,7 @@ Pour me partager votre dépot , forker mon dépot de la foad et ajouter votre ur
 
 ##  Mon url du jeu
 
-Mettre son l'url de votre dépot github.
+https://kevincalixte.github.io/js-game/
 
 ## Jeu en javascript
 
